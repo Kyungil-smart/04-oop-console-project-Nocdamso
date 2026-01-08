@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:45:31.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
