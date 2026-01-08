@@ -1,0 +1,7 @@
+C:\Users\adsnm\OneDrive\바탕 화면\Githubstudy\04-oop-console-project-Nocdamso\Console_Project_2\bin\Debug\Console_Project_2.exe.config
+C:\Users\adsnm\OneDrive\바탕 화면\Githubstudy\04-oop-console-project-Nocdamso\Console_Project_2\bin\Debug\Console_Project_2.exe
+C:\Users\adsnm\OneDrive\바탕 화면\Githubstudy\04-oop-console-project-Nocdamso\Console_Project_2\bin\Debug\Console_Project_2.pdb
+C:\Users\adsnm\OneDrive\바탕 화면\Githubstudy\04-oop-console-project-Nocdamso\Console_Project_2\obj\Debug\Console_Project_2.csproj.AssemblyReference.cache
+C:\Users\adsnm\OneDrive\바탕 화면\Githubstudy\04-oop-console-project-Nocdamso\Console_Project_2\obj\Debug\Console_Project_2.csproj.CoreCompileInputs.cache
+C:\Users\adsnm\OneDrive\바탕 화면\Githubstudy\04-oop-console-project-Nocdamso\Console_Project_2\obj\Debug\Console_Project_2.exe
+C:\Users\adsnm\OneDrive\바탕 화면\Githubstudy\04-oop-console-project-Nocdamso\Console_Project_2\obj\Debug\Console_Project_2.pdb
