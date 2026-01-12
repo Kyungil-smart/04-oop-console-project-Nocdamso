@@ -40,10 +40,9 @@ public class Map
         for (int i = 0; i < map.GetLength(0); i++)
         {
             for (int j = 0; j < map.GetLength(1); j++)
-            {
+            {    
                 Console.Write(map[i, j]);
             }
-
             Console.WriteLine();
         }
     }
@@ -55,10 +54,17 @@ public class Map
     {
         int x = 1, y = 2;
         SetCell(x, y, Define.PLAYER);
-        player.Init(x, y);
+        player.Init(x, y); 
     }
 
-   public void Bush(char bush)
+    public void SpawnEnemy(Enemy enemy)
+    {
+        int x = 2, y = 90;
+        SetCell(x, y, Define.ENEMY);
+        enemy.Init(x, y);
+    }
+
+    public void Bush(char bush)
    {
         for (int x = 14; x < 19; x++)
         {

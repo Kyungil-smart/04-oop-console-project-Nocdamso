@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\printtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,43 +42,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T07:45:31.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\GameManager.cs",
               "RelativeDocumentMoniker": "GameManager.cs",
               "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\GameManager.cs",
               "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvyIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T07:52:46.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Map.cs",
               "RelativeDocumentMoniker": "Map.cs",
               "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Map.cs",
               "RelativeToolTip": "Map.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAuwGIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T08:26:13.447Z",
               "EditorCaption": ""
@@ -87,40 +91,53 @@
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T08:26:28.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:44:04.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Rules.cs",
               "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Rules.cs",
               "RelativeDocumentMoniker": "Rules.cs",
               "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Rules.cs",
               "RelativeToolTip": "Rules.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwCgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T08:23:35.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Define.cs",
               "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Define.cs",
               "RelativeDocumentMoniker": "Define.cs",
               "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Define.cs",
               "RelativeToolTip": "Define.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T01:24:31.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PrintText.cs",
               "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\PrintText.cs",
               "RelativeDocumentMoniker": "PrintText.cs",

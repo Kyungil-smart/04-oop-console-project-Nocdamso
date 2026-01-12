@@ -14,7 +14,6 @@ public class Rules
         this.map = map;
     }
 
-
     public bool PlayerMove(ConsoleKey inputKey)
     {
         Define.Position nextPos = player.PlayerPos;
@@ -49,7 +48,7 @@ public class Rules
 
         char target = map.GetCell(nextPos.X, nextPos.Y);
 
-        if (target == Define.WALL || target == Define.WATER)
+        if (target == Define.WALL || target == Define.WATER || target == Define.ENEMY)
             return false;
         
         map.SetCell(player.PlayerPos.X, player.PlayerPos.Y, player.OnTile);

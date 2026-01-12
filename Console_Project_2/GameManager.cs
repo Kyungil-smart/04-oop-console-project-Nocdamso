@@ -4,6 +4,7 @@ public class GameManager
 {
     Map map;
     Player player;
+    Enemy enemy;
     Rules rules;
     PrintText printText;
 
@@ -25,14 +26,15 @@ public class GameManager
     {
         Console.CursorVisible = false;
         map = new Map();
-        player = new Player(); 
+        player = new Player();
+        enemy = new Enemy();
         rules = new Rules(player, map);
         printText = new PrintText();
 
         map.Init();
         map.SpawnPlayer(player);
+        map.SpawnEnemy(enemy);
         map.Bush(Define.BUSH);
         map.Water(Define.WATER);
-
     }
 }
