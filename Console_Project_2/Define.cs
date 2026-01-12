@@ -9,7 +9,9 @@ public class Define
     public static readonly char EMPTY = ' ';
     public static readonly char BUSH = '/';
     public static readonly char WATER = '~';
-    public static readonly char BULLET = '-';
+    public static readonly char BULLET = '●';
+    public static readonly char HIT = '!';
+
 
     public struct Position
     {

@@ -23,6 +23,7 @@ public class GameManager
     
     void Init()
     {
+        Console.CursorVisible = false;
         map = new Map();
         player = new Player(); 
         rules = new Rules(player, map);

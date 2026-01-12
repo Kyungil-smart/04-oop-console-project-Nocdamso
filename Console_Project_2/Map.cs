@@ -13,7 +13,7 @@ public class Map
     
     public void Init()
     {
-        width = 60;
+        width = 100;
         height = 20;
 
         map = new char[height, width];
@@ -23,11 +23,16 @@ public class Map
             for(int j = 0; j < map.GetLength(1); j++)
             {
                 if (i == 0 || j == 0 || i == height - 1 || j == width - 1)
-                    map[i,j] = Define.WALL;
+                    map[i, j] = Define.WALL;
                 else
                     map[i, j] = Define.EMPTY;
             }
         }
+        for (int i = 1; i < 6; i++)
+            map[i, 15] = Define.WALL;
+
+        for (int i = 13; i < 18; i++)
+            map[i, 25] = Define.WALL;
     }
 
     public void PrintMap()
@@ -55,7 +60,7 @@ public class Map
 
    public void SpawnObject(char objChar)
    {
-       for (int x = 14;  x < 19; x++) 
+       for (int x = 14; x < 19; x++) 
        {
             for (int y = x; y < 19; y++)
             {
@@ -66,6 +71,14 @@ public class Map
        for (int x = 1; x < 5; x++)
         {
             for (int y = 40; y < 46 - x; y++)
+            {
+                SetCell(x, y, objChar);
+            }
+        }
+
+       for (int x = 14; x < 19; x++)
+        {
+            for (int y = 70; y < 80; y++)
             {
                 SetCell(x, y, objChar);
             }
