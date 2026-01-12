@@ -1,0 +1,77 @@
+﻿
+
+
+using System;
+using System.Data;
+using System.Runtime.InteropServices.ComTypes;
+
+public class Map
+{
+    char[,] map;
+    int height;
+    int width;
+    
+    public void Init()
+    {
+        width = 60;
+        height = 20;
+
+        map = new char[height, width];
+
+        for (int i = 0; i < map.GetLength(0); i++)
+        {
+            for(int j = 0; j < map.GetLength(1); j++)
+            {
+                if (i == 0 || j == 0 || i == height - 1 || j == width - 1)
+                    map[i,j] = Define.WALL;
+                else
+                    map[i, j] = Define.EMPTY;
+            }
+        }
+    }
+
+    public void PrintMap()
+    {
+        for (int i = 0; i < map.GetLength(0); i++)
+        {
+            for (int j = 0; j < map.GetLength(1); j++)
+            {
+                Console.Write(map[i, j]);
+            }
+
+            Console.WriteLine();
+        }
+    }
+
+    public char GetCell(int x, int y) => map[x, y];
+    public void SetCell(int x, int y, char value) => map[x, y] = value;
+
+    public void SpawnPlayer(Player player)
+    {
+        int y = 1, x = 2;
+        SetCell(y, x, Define.PLAYER);
+        player.Init(y, x);
+    }
+
+   public void SpawnObject(char objChar)
+   {
+       for (int x = 14;  x < 19; x++) 
+       {
+            for (int y = x; y < 19; y++)
+            {
+                SetCell(y, x, objChar);
+            }
+       }
+
+       for (int x = 1; x < 5; x++)
+        {
+            for (int y = 40; y < 46 - x; y++)
+            {
+                SetCell(x, y, objChar);
+            }
+        }
+   }
+}
+
+    
+

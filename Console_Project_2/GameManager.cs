@@ -2,19 +2,35 @@
 
 public class GameManager
 {
-    public static bool IsGameOver { get; set; }
+    Map map;
+    Player player;
+    Rules rules;
+    PrintText printText;
+
     public void Run()
     {
         Init();
 
-        while (!IsGameOver)
+        while (true)
         {
+            Console.SetCursorPosition(0, 4);
+            map.PrintMap();
 
+            ConsoleKey inputKey = player.UserInput();
+            rules.PlayerMove(inputKey);
         }
     }
-
-    private void Init()
+    
+    void Init()
     {
-        IsGameOver = false;
+        map = new Map();
+        player = new Player(); 
+        rules = new Rules(player, map);
+        printText = new PrintText();
+
+        map.Init();
+        map.SpawnPlayer(player);
+        map.SpawnObject(Define.BUSH);
+
     }
 }

@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\printtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:printtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|c:\\users\\adsnm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\githubstudy\\04-oop-console-project-nocdamso\\console_project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909741B4-36AD-48DC-A871-435636AF7E29}|Console_Project_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,58 +38,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Move.cs",
-              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Move.cs",
-              "RelativeDocumentMoniker": "Move.cs",
-              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Move.cs",
-              "RelativeToolTip": "Move.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:26:28.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Idle.cs",
-              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Idle.cs",
-              "RelativeDocumentMoniker": "Idle.cs",
-              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Idle.cs",
-              "RelativeToolTip": "Idle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T08:26:13.447Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SceneManager.cs",
-              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\SceneManager.cs",
-              "RelativeDocumentMoniker": "SceneManager.cs",
-              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\SceneManager.cs",
-              "RelativeToolTip": "SceneManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:24:12.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Scene.cs",
-              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Scene.cs",
-              "RelativeDocumentMoniker": "Scene.cs",
-              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Scene.cs",
-              "RelativeToolTip": "Scene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:23:35.633Z",
+              "WhenOpened": "2026-01-08T07:45:31.976Z",
               "EditorCaption": ""
             },
             {
@@ -96,7 +75,7 @@
               "RelativeDocumentMoniker": "GameManager.cs",
               "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\GameManager.cs",
               "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T07:52:46.655Z",
               "EditorCaption": ""
@@ -104,14 +83,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAJAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:45:31.976Z",
+              "WhenOpened": "2026-01-08T08:26:28.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rules.cs",
+              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Rules.cs",
+              "RelativeDocumentMoniker": "Rules.cs",
+              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Rules.cs*",
+              "RelativeToolTip": "Rules.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAASwDwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:23:35.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Define.cs",
+              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Define.cs",
+              "RelativeDocumentMoniker": "Define.cs",
+              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\Define.cs",
+              "RelativeToolTip": "Define.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T01:24:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintText.cs",
+              "DocumentMoniker": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\PrintText.cs",
+              "RelativeDocumentMoniker": "PrintText.cs",
+              "ToolTip": "C:\\Users\\adsnm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Githubstudy\\04-oop-console-project-Nocdamso\\Console_Project_2\\PrintText.cs",
+              "RelativeToolTip": "PrintText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:24:12.405Z",
               "EditorCaption": ""
             }
           ]
