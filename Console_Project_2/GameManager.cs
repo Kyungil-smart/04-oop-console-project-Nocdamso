@@ -31,7 +31,8 @@ public class GameManager
 
         map.Init();
         map.SpawnPlayer(player);
-        map.SpawnObject(Define.BUSH);
+        map.Bush(Define.BUSH);
+        map.Water(Define.WATER);
 
     }
 }

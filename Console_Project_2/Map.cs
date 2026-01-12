@@ -58,32 +58,46 @@ public class Map
         player.Init(x, y);
     }
 
-   public void SpawnObject(char objChar)
+   public void Bush(char bush)
    {
-       for (int x = 14; x < 19; x++) 
-       {
+        for (int x = 14; x < 19; x++)
+        {
             for (int y = x; y < 19; y++)
             {
-                SetCell(y, x, objChar);
+                SetCell(y, x, bush);
             }
-       }
+        }
 
-       for (int x = 1; x < 5; x++)
+        for (int x = 1; x < 5; x++)
         {
             for (int y = 40; y < 46 - x; y++)
             {
-                SetCell(x, y, objChar);
+                SetCell(x, y, bush);
             }
         }
 
-       for (int x = 14; x < 19; x++)
+        for (int x = 14; x < 19; x++)
         {
             for (int y = 70; y < 80; y++)
             {
-                SetCell(x, y, objChar);
+                SetCell(x, y, bush);
             }
         }
-   }
+    }
+
+    public void Water(char water)
+    {
+        for (int i = 0; i < 10; i++)
+        {
+            int x = 13 - i;
+            int j = 35 + (i * 3);
+
+            for (int y = j; y < j +15; y++)
+            {
+                SetCell(x, y, water);
+            }
+        }   
+    }
 }
 
     
