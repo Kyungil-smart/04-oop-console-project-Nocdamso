@@ -48,9 +48,9 @@ public class Map
 
     public void SpawnPlayer(Player player)
     {
-        int y = 1, x = 2;
-        SetCell(y, x, Define.PLAYER);
-        player.Init(y, x);
+        int x = 1, y = 2;
+        SetCell(x, y, Define.PLAYER);
+        player.Init(x, y);
     }
 
    public void SpawnObject(char objChar)

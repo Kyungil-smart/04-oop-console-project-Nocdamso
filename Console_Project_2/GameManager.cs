@@ -13,7 +13,7 @@ public class GameManager
 
         while (true)
         {
-            Console.SetCursorPosition(0, 4);
+            Console.SetCursorPosition(0, 5);
             map.PrintMap();
 
             ConsoleKey inputKey = player.UserInput();

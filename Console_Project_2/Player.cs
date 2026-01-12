@@ -2,14 +2,17 @@
 
 
 using System;
+using System.Security.Cryptography.X509Certificates;
 
 public class Player
 {
     public Define.Position PlayerPos;
+    public char OnTile = Define.EMPTY;
 
     public void Init(int posX, int posY)
     {
         PlayerPos = new Define.Position() { X = posX, Y = posY };
+        OnTile = Define.EMPTY;
     }
 
     public ConsoleKey UserInput()
@@ -31,8 +34,9 @@ public class Player
         return inputKey;
     }
 
-    public void Move(Define.Position nextPos)
+    public void Move(Define.Position nextPos, char nextTile)
     {
         PlayerPos = nextPos;
+        OnTile = nextTile;
     }
 }

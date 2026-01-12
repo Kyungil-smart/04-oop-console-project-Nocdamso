@@ -49,8 +49,12 @@ public class Rules
 
         char target = map.GetCell(nextPos.X, nextPos.Y);
 
-        if (target == Define.WALL)
+        if (target == Define.WALL || target == Define.WATER)
             return false;
+        
+        map.SetCell(player.PlayerPos.X, player.PlayerPos.Y, player.OnTile);
+        char nextTile = target;
+        player.Move(nextPos, nextTile);
 
         if (target == Define.BUSH)
         {
@@ -60,13 +64,6 @@ public class Rules
         {
             map.SetCell(nextPos.X, nextPos.Y, Define.PLAYER);
         }
-
-
-            map.SetCell(player.PlayerPos.X, player.PlayerPos.Y, Define.EMPTY);
-        map.SetCell(nextPos.X, nextPos.Y, Define.PLAYER);
-        player.Move(nextPos);
-
         return true;
     }
-
 }
