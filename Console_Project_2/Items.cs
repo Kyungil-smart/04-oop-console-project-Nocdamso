@@ -15,6 +15,6 @@ public class Items()
 
     public void ItemBullet()
     {
-        // 아이템을 먹으면 BULLET 두 개씩 발사 가능
+        // 아이템을 먹으면 BULLET을 두 개씩 발사 가능
     }
 }
