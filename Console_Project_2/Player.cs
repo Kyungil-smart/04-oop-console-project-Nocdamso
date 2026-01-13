@@ -29,7 +29,6 @@ public class Player
                 ConsoleKey.D == inputKey ||
                 ConsoleKey.Spacebar == inputKey)
                 break;
-
         }
         return inputKey;
     }
