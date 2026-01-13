@@ -19,6 +19,8 @@ public class GameManager
 
             ConsoleKey inputKey = player.UserInput();
             rules.PlayerMove(inputKey);
+
+            // ENEMY가 사라지면 승리, PLAYER가 사라지면 패배
         }
     }
     

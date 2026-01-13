@@ -11,6 +11,9 @@ public class Define
     public static readonly char WATER = '~';
     public static readonly char BULLET = '●';
     public static readonly char HIT = '!';
+    public static readonly char POWERITEM = '♤';
+    public static readonly char SPEEDITEM = '☆';
+    public static readonly char BULLETITEM = '♧';
 
 
     public struct Position
