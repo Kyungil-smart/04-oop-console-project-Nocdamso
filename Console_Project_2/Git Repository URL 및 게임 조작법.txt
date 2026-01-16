@@ -1,0 +1,10 @@
+git 주소 : https://github.com/Kyungil-smart/04-oop-console-project-Nocdamso
+
+
+조작법
+
+W : 위로 이동
+A : 좌로 이동
+S : 아래로 이동
+D : 우로 이동
+Space Bar : 대포발사 (구현 못 함)
